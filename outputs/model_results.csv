@@ -1,0 +1,5 @@
+Model,ROC_AUC
+Logistic Regression,0.6843
+Random Forest,0.7584
+Random Forest + Gap Features,0.7868
+XGBoost,0.77
